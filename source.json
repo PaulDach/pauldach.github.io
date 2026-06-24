@@ -15,7 +15,7 @@
       "developerName": "Example Developer",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://i.imgur.com/MHI80oJ.png",
+      "iconURL": "https://i.imgur.com/sBI6rzI.png",
       "tintColor": "#2cb0d8",
       "category": "other",
       "screenshots": [],
@@ -25,7 +25,7 @@
           "size": 38300000,
           "version": "0.2.12",
           "buildVersion": null,
-          "date": "2026-06-24T12:13:00+02:00",
+          "date": "2026-06-24T16:58:00+02:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
